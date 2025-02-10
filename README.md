@@ -2,6 +2,7 @@
 
 🔹 **Frontend Engineer** with **7+ years of experience** in building scalable and high-performance applications.  
 🔹 Passionate about **Vue.js, TypeScript, React, and AI-driven applications**.  
+🔹 Love to write *well-tested, modular and clean** code.
 🔹 Creator of [Visual AI](https://visual-ai.app), an AI-powered text-to-image platform.  
 
 ### 🚀 Skills & Technologies:
