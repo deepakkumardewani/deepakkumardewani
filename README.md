@@ -10,14 +10,9 @@
 🛠️ **DevOps:** Docker, GitHub Actions, DigitalOcean, CI/CD  
 🎨 **Tools:** Jest, Mocha, Cloudinary, Firebase  
 
-### 📈 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkumardewani&show_icons=true&theme=radical)
-
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepakkumardewani/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Deepak-black?style=flat&logo=github)](https://github.com/deepakkumardewani)
 
 ---
 🚀 **Let's build something awesome together!**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumardewani&layout=compact&theme=radical)
