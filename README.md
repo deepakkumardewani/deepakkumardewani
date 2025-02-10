@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Deepak Kumar Dewani!
 
-<!--
-**deepakkumardewani/deepakkumardewani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Frontend Engineer** with **7+ years of experience** in building scalable and high-performance applications.  
+🔹 Passionate about **Vue.js, TypeScript, React, and AI-driven applications**.  
+🔹 Creator of [Visual AI](https://visual-ai.app), an AI-powered text-to-image platform.  
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies:
+💻 **Frontend:** Vue.js, React, Angular, TailwindCSS, Webpack  
+⚙️ **Backend:** Node.js, Express.js, GraphQL, REST APIs, Redis, MongoDB
+🛠️ **DevOps:** Docker, GitHub Actions, DigitalOcean, CI/CD  
+🎨 **Tools:** Jest, Mocha, Cloudinary, Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkumardewani&show_icons=true&theme=radical)
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepakkumardewani/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Deepak-black?style=flat&logo=github)](https://github.com/deepakkumardewani)
+
+---
+🚀 **Let's build something awesome together!**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumardewani&layout=compact&theme=radical)
