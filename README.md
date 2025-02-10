@@ -6,7 +6,7 @@
 
 ### 🚀 Skills & Technologies:
 💻 **Frontend:** Vue.js, React, Angular, TailwindCSS, Webpack  
-⚙️ **Backend:** Node.js, Express.js, GraphQL, REST APIs, Redis, MongoDB
+⚙️ **Backend:** Node.js, Express.js, GraphQL, REST APIs, Redis, MongoDB  
 🛠️ **DevOps:** Docker, GitHub Actions, DigitalOcean, CI/CD  
 🎨 **Tools:** Jest, Mocha, Cloudinary, Firebase  
 
