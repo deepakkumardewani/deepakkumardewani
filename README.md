@@ -1,19 +1,96 @@
-## 👋 Hi, I'm Deepak Kumar Dewani!
+## 👋 Hi, I’m Deepak Kumar Dewani  
 
-🔹 **Frontend Engineer** with **7+ years of experience** in building scalable and high-performance applications.  
-🔹 Passionate about **Vue.js, TypeScript, React, and AI-driven applications**.  
-🔹 Love to write **well-tested, modular and clean** code.  
-🔹 Creator of [Visual AI](https://visual-ai.app), an AI-powered text-to-image platform.  
+**Senior Frontend Engineer | Product-Focused | AI-First Builder**
 
-### 🚀 Skills & Technologies:
-💻 **Frontend:** Vue.js, React, Angular, TailwindCSS, Webpack  
-⚙️ **Backend:** Node.js, Express.js, GraphQL, REST APIs, Redis, MongoDB  
-🛠️ **DevOps:** Docker, GitHub Actions, DigitalOcean, CI/CD  
-🎨 **Tools:** Jest, Mocha, Cloudinary, Firebase  
+I’m a **Senior Frontend Engineer with 8+ years of experience** designing and building scalable, high-performance web applications. I specialize in **Vue.js/React.js and modern frontend architectures**, with strong full-stack experience and a growing focus on **AI-driven product development**.
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepakkumardewani/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Deepak-black?style=flat&logo=github)](https://github.com/deepakkumardewani)
+I care deeply about **clean architecture, performance, and developer experience**, and I enjoy taking products from **idea → MVP → production**.
 
 ---
-🚀 **Let's build something awesome together!**
+
+## 🧠 What I Do Best
+- Build **robust, scalable frontend systems** using Vue, React, and TypeScript  
+- Design **headless and API-driven architectures** (REST / GraphQL)  
+- Lead and implement **AI-first development workflows**  
+- Create **production-ready SaaS products** as a solo developer  
+- Write **maintainable, well-tested, and modular code**
+
+---
+
+## 🚀 Featured Projects
+
+### 🎨 **Visual AI**  
+🔗 https://visual-ai.app  
+An AI-powered creative platform offering **text-to-image generation, image upscaling, colorization, and restoration**.
+
+**Highlights**
+- End-to-end SaaS built independently (Frontend, Backend, Infra, Payments)
+- Daily free credits, subscriptions, and referral system
+- Image processing workflows with async job handling
+- Deployed using Docker on DigitalOcean, with Cloudinary for asset management
+
+**Tech Stack:** Vue 3, Vite, TypeScript, Node.js, Express, MongoDB, Redis, Docker
+
+---
+
+### 🚀 **RocketLander**  
+A **landing page generator** focused on speed, performance, and conversion-friendly layouts.
+
+**Highlights**
+- Component-driven UI system
+- Optimized for SEO and Lighthouse performance
+- Designed for rapid experimentation and iteration
+
+**Tech Stack:** Vue, TailwindCSS, Vite
+
+---
+
+### 🧩 **CreateFolio**  
+A **portfolio generator** that lets developers export **static, deployable HTML portfolios** from React-based templates.
+
+**Highlights**
+- Static HTML export with preserved JavaScript functionality
+- Template-driven architecture
+- Built for developers who want zero-runtime hosting
+
+**Tech Stack:** React, Next.js, Node.js
+
+---
+
+## 🤖 AI-First Engineering
+I actively drive **AI-assisted development workflows**, both personally and within teams:
+
+- Introduced **AI-first workflows** for UI development and engineering tasks
+- Used AI to:
+  - Generate Figma designs from prompts
+  - Create unit tests and test cases
+  - Review code and suggest improvements
+  - Generate structured commit messages
+- Hands-on experience with **Claude, GitHub Copilot, and LLM-based tooling**
+- Strong interest in **AI-powered developer tools and micro-SaaS products**
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Frontend**  
+Vue.js (Vue 3), React, Angular, TypeScript, TailwindCSS, Vite, Webpack  
+
+**Backend & APIs**  
+Node.js, Express.js, REST, GraphQL, MongoDB, Redis  
+
+**DevOps & Infra**  
+Docker, GitHub Actions, CI/CD, DigitalOcean  
+
+**Testing & Tooling**  
+Vitest, Jest, Mocha, Storybook, Cloudinary, Firebase  
+
+---
+
+## 📫 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/deepakkumardewani  
+- 💻 **GitHub:** https://github.com/deepakkumardewani  
+
+---
+
+### 🚀 Always building. Always learning. Always shipping.
