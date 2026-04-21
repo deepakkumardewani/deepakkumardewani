@@ -1,122 +1,69 @@
-## 👋 Hi, I'm Deepak Kumar Dewani
+# Hi, I'm Deepak 👋
 
-**Senior Frontend Engineer | Product-Focused | AI-First Builder**
+📍 **Mumbai, India** | 🧱 **Senior Frontend Engineer** | 🤖 **AI-First Builder** | 🚀 **Indie SaaS Maker**
 
-I'm a **Senior Frontend Engineer with 8+ years of experience** designing and building scalable, high-performance web applications. I specialize in **Vue.js/React.js and modern frontend architectures**, with strong full-stack experience and a growing focus on **AI-driven product development**.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-I care deeply about **clean architecture, performance, and developer experience**, and I enjoy taking products from **idea → MVP → production**.
+8+ years building scalable frontend systems — promoted through four roles at AccionLabs. Shipped features to **14M+ users**, contributed to a **$9M revenue increase**, and won the **Innovation & Engineering Excellence** award at the 2026 AccionLabs Summit.
 
----
-
-## 🧠 What I Do Best
-
-- Build **robust, scalable frontend systems** using Vue, React, and TypeScript
-- Design **headless and API-driven architectures** (REST / GraphQL)
-- Lead and implement **AI-first development workflows**
-- Create **production-ready SaaS products** as a solo developer
-- Write **maintainable, well-tested, and modular code**
+I architect component systems, establish engineering standards, and lead AI-first workflows. Outside of work, I build and ship indie SaaS products end-to-end.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🎨 Visual AI
-
-🔗 https://visual-ai.app
-
-An AI-powered creative platform offering **text-to-image generation, image upscaling, colorization, and restoration**.
-
-**Highlights**
-
-- End-to-end SaaS built independently (Frontend, Backend, Infra, Payments)
-- Daily free credits, subscriptions, and referral system
-- Image processing workflows with async job handling
-- Deployed using Docker on DigitalOcean, with Cloudinary for asset management
-
-**Tech Stack:** Vue 3, Vite, TypeScript, Node.js, Express, MongoDB, Redis, Docker
+| Project | What it does |
+|--------|--------------|
+| 🛠️ [Requestr](https://requestr-api.vercel.app) | Browser-native API testing tool — Postman alternative with zero backend, IndexedDB persistence, and full collection support |
+| 🎨 [Visual AI](https://visual-ai.app) | AI SaaS for image generation, upscaling, colorization & restoration — built solo, end-to-end |
+| ⚗️ [Elementum](https://elementum-periodic-table.vercel.app) | Interactive periodic table with 3D atom visualisations, heatmaps, and Lighthouse score of 100 |
+| 🗂️ [CreateFolio](https://createfolio.app) | Portfolio generator with one-click Netlify deployment |
+| 🚀 [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS |
 
 ---
 
-### 🚀 RocketLander
+## 🛠️ Stack
 
-🔗 https://www.rocketlander.in/
+**Frontend**
+`React` `Next.js` `Vue 3` `Angular` `TypeScript` `Tailwind` `ShadCN` `MUI` `Ant Design`
 
-A **landing page generator** focused on speed, performance, and conversion-friendly layouts.
+**State & Data**
+`Redux` `Pinia` `Jotai` `TanStack Query` `GraphQL` `REST`
 
-**Highlights**
+**Testing**
+`Jest` `React Testing Library` `Vitest` `Cypress` `Playwright`
 
-- Component-driven UI system
-- Optimized for SEO and Lighthouse performance
-- Designed for rapid experimentation and iteration
+**Backend & Infra**
+`Node.js` `Express` `MongoDB` `Redis` `Docker` `GitHub Actions` `CI/CD`
 
-**Tech Stack:** Vue, TailwindCSS, Vite
+**AI & Tooling**
+`Claude Code` `GitHub Copilot` `Cursor` `Prompt Engineering`
 
----
-
-### 🧩 CreateFolio
-
-🔗 https://www.createfolio.app/
-
-A **portfolio generator** that lets developers export **static, deployable HTML portfolios** from React-based templates.
-
-**Highlights**
-
-- Static HTML export with preserved JavaScript functionality
-- Template-driven architecture
-- Built for developers who want zero-runtime hosting
-
-**Tech Stack:** React, Next.js, Node.js
-
----
-
-### 📰 NewsFlow
-
-🔗 https://news-flow-theta.vercel.app/
-
-A **modern, responsive news reader web application** powered by NewsAPI.org. Browse breaking headlines, search and filter articles, explore publishers, and save bookmarks — all in a clean, accessible interface.
+**Platforms**
+`Vercel` `Firebase` `Netlify` `DigitalOcean` `Cloudinary`
 
 ---
 
 ## 🤖 AI-First Engineering
 
-I actively drive **AI-assisted development workflows**, both personally and within teams:
-
-- Introduced **AI-first workflows** for UI development and engineering tasks
-- Used AI to:
-  - Generate Figma designs from prompts
-  - Create unit tests and test cases
-  - Review code and suggest improvements
-  - Generate structured commit messages
-- Hands-on experience with **Claude, GitHub Copilot, and LLM-based tooling**
-- Strong interest in **AI-powered developer tools and micro-SaaS products**
+I introduced and scaled AI-assisted workflows across my team — cutting sprint delivery time by ~30%. Day-to-day this means:
+- Reusable prompt templates for tests, code reviews, and commit messages
+- Using Claude Code and Copilot for architectural decisions, not just autocomplete
+- Building internal tooling that makes the whole team faster
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📫 Connect
 
-**Frontend**
-
-Vue.js (Vue 3), React, Angular, TypeScript, TailwindCSS, Vite, Webpack
-
-**Backend & APIs**
-
-Node.js, Express.js, REST, GraphQL, MongoDB, Redis
-
-**DevOps & Infra**
-
-Docker, GitHub Actions, CI/CD, DigitalOcean
-
-**Testing & Tooling**
-
-Vitest, Jest, Mocha, Storybook, Cloudinary, Firebase
+[![LinkedIn](https://img.shields.io/badge/-Deepak_Kumar_Dewani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumardewani)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deepakkumardewani)
+[![Portfolio](https://img.shields.io/badge/-deepakd.me-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://deepakd.me)
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/deepakkumardewani
-- 💻 **GitHub:** https://github.com/deepakkumardewani
-
----
-
-### 🚀 Always building. Always learning. Always shipping.
+> "I care about the last 10% as much as the first 90% — that's where good engineering becomes great product."
