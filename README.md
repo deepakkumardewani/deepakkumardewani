@@ -27,7 +27,7 @@ I architect component systems, establish engineering standards, and lead AI-firs
 | <img src="./visual-ai-logo.png" width="20" /> | [Visual AI](https://visual-ai.app) | AI SaaS for image generation, upscaling, colorization & restoration — built solo, end-to-end | `Next.js` `AI SDK` `Cloudinary` |
 | <img src="https://raw.githubusercontent.com/deepakkumardewani/elementum/main/public/favicon.png" width="20" /> | [Elementum](https://elementum-periodic-table.vercel.app) | Interactive periodic table with 3D atom visualisations, heatmaps, and Lighthouse score of 100 | `Three.js` `React` `TypeScript` |
 | <img src="https://raw.githubusercontent.com/deepakkumardewani/portfolio-generator/main/public/assets/icon.png" width="20" /> | [CreateFolio](https://createfolio.app) | Portfolio generator with one-click Netlify deployment | `React` `Netlify` `Serverless` |
-| <img src="https://raw.githubusercontent.com/deepakkumardewani/rocket-lander/main/src/assets/icon.png" width="20" /> | [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS | `Phaser` `Firebase` `Canvas` |
+| <img src="./rocketlander-logo.png" width="20" /> | [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS | `Phaser` `Firebase` `Canvas` |
 
 ---
 
