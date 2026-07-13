@@ -5,6 +5,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -17,13 +18,16 @@ I architect component systems, establish engineering standards, and lead AI-firs
 
 ## 🚀 Projects
 
-| Project | What it does |
-|--------|--------------|
-| 🛠️ [Requestr](https://requestr-api.vercel.app) | Browser-native API testing tool — Postman alternative with zero backend, IndexedDB persistence, and full collection support |
-| 🎨 [Visual AI](https://visual-ai.app) | AI SaaS for image generation, upscaling, colorization & restoration — built solo, end-to-end |
-| ⚗️ [Elementum](https://elementum-periodic-table.vercel.app) | Interactive periodic table with 3D atom visualisations, heatmaps, and Lighthouse score of 100 |
-| 🗂️ [CreateFolio](https://createfolio.app) | Portfolio generator with one-click Netlify deployment |
-| 🚀 [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🧬 [weavr](https://github.com/deepakkumardewani/weavr) | Rust CLI that converts Claude Code transcripts into beautiful self-contained HTML — **18–46× faster** than the Python alternative. Published on [crates.io](https://crates.io/crates/weavr) and Homebrew | `Rust` `SQLite` `Material 3` |
+| ⚖️ [LexLight](https://lexlight.vercel.app) | AI-powered legal document analysis — plain-English contract review with risk scoring, clause-by-clause breakdown, and PDF/Markdown export. **Lighthouse score of 100** | `Next.js 16` `React 19` `TypeScript` `AI SDK` |
+| 🎛️ [Claude Desk](https://github.com/deepakkumardewani/cc-studio) | Browser UI for managing Claude Code config — edit skills, plans, agents, and settings without hand-editing JSON. One command: `npx claude-desk` | `React` `Hono` `TypeScript` `Vite+` |
+| 🛠️ [Requestr](https://requestr-api.vercel.app) | Browser-native API testing tool — Postman alternative with zero backend, IndexedDB persistence, and full collection support | `React` `IndexedDB` `PWA` |
+| 🎨 [Visual AI](https://visual-ai.app) | AI SaaS for image generation, upscaling, colorization & restoration — built solo, end-to-end | `Next.js` `AI SDK` `Cloudinary` |
+| ⚗️ [Elementum](https://elementum-periodic-table.vercel.app) | Interactive periodic table with 3D atom visualisations, heatmaps, and Lighthouse score of 100 | `Three.js` `React` `TypeScript` |
+| 🗂️ [CreateFolio](https://createfolio.app) | Portfolio generator with one-click Netlify deployment | `React` `Netlify` `Serverless` |
+| 🚀 [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS | `Phaser` `Firebase` `Canvas` |
 
 ---
 
@@ -38,11 +42,11 @@ I architect component systems, establish engineering standards, and lead AI-firs
 **Testing**
 `Jest` `React Testing Library` `Vitest` `Cypress` `Playwright`
 
-**Backend & Infra**
-`Node.js` `Express` `MongoDB` `Redis` `Docker` `GitHub Actions` `CI/CD`
+**Backend & Systems**
+`Node.js` `Express` `Hono` `Rust` `MongoDB` `Redis` `Docker` `GitHub Actions` `CI/CD`
 
 **AI & Tooling**
-`Claude Code` `GitHub Copilot` `Cursor` `Prompt Engineering`
+`Claude Code` `GitHub Copilot` `Cursor` `Prompt Engineering` `AI SDK`
 
 **Platforms**
 `Vercel` `Firebase` `Netlify` `DigitalOcean` `Cloudinary`
