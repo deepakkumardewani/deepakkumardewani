@@ -18,16 +18,16 @@ I architect component systems, establish engineering standards, and lead AI-firs
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🧬 [weavr](https://github.com/deepakkumardewani/weavr) | Rust CLI that converts Claude Code transcripts into beautiful self-contained HTML — **18–46× faster** than the Python alternative. Published on [crates.io](https://crates.io/crates/weavr) and Homebrew | `Rust` `SQLite` `Material 3` |
-| ⚖️ [LexLight](https://lexlight.vercel.app) | AI-powered legal document analysis — plain-English contract review with risk scoring, clause-by-clause breakdown, and PDF/Markdown export. **Lighthouse score of 100** | `Next.js 16` `React 19` `TypeScript` `AI SDK` |
-| 🎛️ [Claude Desk](https://github.com/deepakkumardewani/cc-studio) | Browser UI for managing Claude Code config — edit skills, plans, agents, and settings without hand-editing JSON. One command: `npx claude-desk` | `React` `Hono` `TypeScript` `Vite+` |
-| 🛠️ [Requestr](https://requestr-api.vercel.app) | Browser-native API testing tool — Postman alternative with zero backend, IndexedDB persistence, and full collection support | `React` `IndexedDB` `PWA` |
-| 🎨 [Visual AI](https://visual-ai.app) | AI SaaS for image generation, upscaling, colorization & restoration — built solo, end-to-end | `Next.js` `AI SDK` `Cloudinary` |
-| ⚗️ [Elementum](https://elementum-periodic-table.vercel.app) | Interactive periodic table with 3D atom visualisations, heatmaps, and Lighthouse score of 100 | `Three.js` `React` `TypeScript` |
-| 🗂️ [CreateFolio](https://createfolio.app) | Portfolio generator with one-click Netlify deployment | `React` `Netlify` `Serverless` |
-| 🚀 [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS | `Phaser` `Firebase` `Canvas` |
+| | Project | Description | Stack |
+|---|---------|-------------|-------|
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/weavr/main/assets/icon.png" width="20" /> | [weavr](https://github.com/deepakkumardewani/weavr) | Rust CLI that converts Claude Code transcripts into beautiful self-contained HTML — **18–46× faster** than the Python alternative. Published on [crates.io](https://crates.io/crates/weavr) and Homebrew | `Rust` `SQLite` `Material 3` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/legal-plain/main/public/logo.svg" width="20" /> | [LexLight](https://lexlight.vercel.app) | AI-powered legal document analysis — plain-English contract review with risk scoring, clause-by-clause breakdown, and PDF/Markdown export. **Lighthouse score of 100** | `Next.js 16` `React 19` `TypeScript` `AI SDK` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/cc-studio/main/assets/logo.png" width="20" /> | [Claude Desk](https://github.com/deepakkumardewani/cc-studio) | Browser UI for managing Claude Code config — edit skills, plans, agents, and settings without hand-editing JSON. One command: `npx claude-desk` | `React` `Hono` `TypeScript` `Vite+` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/requestr/main/public/logo.png" width="20" /> | [Requestr](https://requestr-api.vercel.app) | Browser-native API testing tool — Postman alternative with zero backend, IndexedDB persistence, and full collection support | `React` `IndexedDB` `PWA` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/visual-ai/main/apps/web/public/favicon.ico" width="20" /> | [Visual AI](https://visual-ai.app) | AI SaaS for image generation, upscaling, colorization & restoration — built solo, end-to-end | `Next.js` `AI SDK` `Cloudinary` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/elementum/main/public/favicon.png" width="20" /> | [Elementum](https://elementum-periodic-table.vercel.app) | Interactive periodic table with 3D atom visualisations, heatmaps, and Lighthouse score of 100 | `Three.js` `React` `TypeScript` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/portfolio-generator/main/public/assets/icon.png" width="20" /> | [CreateFolio](https://createfolio.app) | Portfolio generator with one-click Netlify deployment | `React` `Netlify` `Serverless` |
+| <img src="https://raw.githubusercontent.com/deepakkumardewani/rocket-lander/main/src/assets/icon.png" width="20" /> | [RocketLander](https://rocketlander.in) | Physics-based browser game with Firebase leaderboard at a steady 60 FPS | `Phaser` `Firebase` `Canvas` |
 
 ---
 
